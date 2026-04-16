@@ -28,3 +28,6 @@ This project was created to understand basic web development concepts like DOM m
 - Search functionality
 - Better UI design
 - Category-wise inventory management
+
+- “Successfully integrated Git & GitHub for version control and deployment.”
+  
